@@ -1,0 +1,18 @@
+Indian Startup Funding Analysis - Summary
+Total funding from 2015.0 to 2017.0: $1,969,000,000.00
+Top 5 sectors:
+IndustryVertical
+E-commerce       9
+Fintech          8
+FoodTech         4
+Logistics        3
+Entertainment    2
+Name: count, dtype: int64
+Top 5 cities:
+CityLocation
+Bangalore    18
+Gurgaon       5
+Noida         4
+Mumbai        3
+Delhi         2
+Name: count, dtype: int64

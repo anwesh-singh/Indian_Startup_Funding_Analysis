@@ -1,0 +1,37 @@
+Date,StartupName,IndustryVertical,SubVertical,CityLocation,InvestorsName,InvestmentType,AmountInUSD
+01/01/2015,Paytm,Fintech,Payments,Noida,SoftBank,Series C,100000000
+15/02/2015,Byju's,Edtech,Online Learning,Bangalore,Sequoia Capital,Series D,50000000
+10/03/2015,Zomato,FoodTech,Online Delivery,Delhi,Info Edge,Series E,75000000
+22/04/2015,Swiggy,FoodTech,Online Delivery,Bangalore,Accel Partners,Series D,60000000
+05/05/2015,Ola,Transport,Taxi Aggregator,Pune,SoftBank,Series E,120000000
+18/06/2015,UrbanClap,Service Marketplace,Home Services,Gurgaon,SAIF Partners,Series C,30000000
+12/07/2015,BookMyShow,Entertainment,Ticketing,Mumbai,Accel Partners,Series D,25000000
+28/08/2015,Delhivery,Logistics,Parcel Delivery,Gurgaon,SoftBank,Series D,40000000
+03/09/2015,PolicyBazaar,Fintech,Insurance,Bangalore,Elevation Capital,Series C,20000000
+17/10/2015,Freshworks,Software,B2B SaaS,Chennai,Sequoia Capital,Series D,80000000
+01/11/2015,Meesho,E-commerce,Social Commerce,Bangalore,Facebook,Series C,15000000
+12/12/2015,Razorpay,Fintech,Payments,Bangalore,Accel Partners,Series C,22000000
+05/01/2016,Lenskart,E-commerce,Optical,Bangalore,SoftBank,Series D,35000000
+19/02/2016,Flipkart,E-commerce,Online Retail,Bangalore,Accel Partners,Series E,90000000
+15/03/2016,Cure.fit,HealthTech,Fitness,Bangalore,Think Investments,Series C,12000000
+28/04/2016,Pine Labs,Fintech,POS Solutions,Noida,Sequoia Capital,Series D,45000000
+10/05/2016,BigBasket,E-commerce,Grocery,Bangalore,Alibaba Group,Series D,60000000
+22/06/2016,Rivigo,Logistics,Parcel Delivery,Gurgaon,SAIF Partners,Series C,30000000
+03/07/2016,Treebo,Travel,Hotel Aggregator,Bangalore,Matrix Partners,Series B,10000000
+18/08/2016,Nykaa,E-commerce,Beauty Products,Mumbai,Steadview Capital,Series C,40000000
+30/09/2016,Paytm,Fintech,Payments,Noida,SoftBank,Series D,120000000
+15/10/2016,Zomato,FoodTech,Online Delivery,Delhi,Info Edge,Series F,85000000
+01/11/2016,Swiggy,FoodTech,Online Delivery,Bangalore,Accel Partners,Series E,70000000
+12/12/2016,Ola,Transport,Taxi Aggregator,Pune,SoftBank,Series F,150000000
+05/01/2017,UrbanClap,Service Marketplace,Home Services,Gurgaon,SAIF Partners,Series D,35000000
+19/02/2017,BookMyShow,Entertainment,Ticketing,Mumbai,Accel Partners,Series E,30000000
+15/03/2017,Delhivery,Logistics,Parcel Delivery,Gurgaon,SoftBank,Series E,50000000
+28/04/2017,PolicyBazaar,Fintech,Insurance,Bangalore,Elevation Capital,Series D,25000000
+10/05/2017,Freshworks,Software,B2B SaaS,Chennai,Sequoia Capital,Series E,90000000
+22/06/2017,Meesho,E-commerce,Social Commerce,Bangalore,Facebook,Series D,20000000
+03/07/2017,Razorpay,Fintech,Payments,Bangalore,Accel Partners,Series D,30000000
+18/08/2017,Lenskart,E-commerce,Optical,Bangalore,SoftBank,Series E,40000000
+30/09/2017,Flipkart,E-commerce,Online Retail,Bangalore,Accel Partners,Series F,120000000
+15/10/2017,Cure.fit,HealthTech,Fitness,Bangalore,Think Investments,Series D,15000000
+01/11/2017,Pine Labs,Fintech,POS Solutions,Noida,Sequoia Capital,Series E,60000000
+12/12/2017,BigBasket,E-commerce,Grocery,Bangalore,Alibaba Group,Series E,70000000
