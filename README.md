@@ -7,7 +7,7 @@ It includes data cleaning, analysis, and visualization to understand how funding
 
 ## 🚀 Project Overview
 - Cleaned and analyzed startup funding data (2015–2019)
-- Visualized funding trends by *sector, **city, and **year*
+- Visualized funding trends by sector, city, and year
 - Highlighted top-funded startups and key investors
-- Tools used: *Python, **Pandas, **Matplotlib, **Seaborn*
+- Tools used: Python, Pandas, Matplotlib, Seaborn
   
